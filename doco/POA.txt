@@ -1,0 +1,10 @@
+POA 
+
+11/15:
+	- Init proj 
+	- Baseline cq code with help & assign commands (single and multiple)
+
+NEXT: 
+	- Add set phrase (SET command)
+	- Add show distro & show phrase (SHOW command)
+	
