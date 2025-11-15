@@ -3,8 +3,8 @@ POA
 11/15:
 	- Init proj 
 	- Baseline cq code with help & assign commands (single and multiple)
+	- Added basic functionality (set phrase, do trans, show phrase, show trans)
 
 NEXT: 
-	- Add set phrase (SET command)
-	- Add show distro & show phrase (SHOW command)
-	
+	- Clean up determination of breakLineLimit in showPhrase()	
+	- Add reading of config params from a config.json file 
